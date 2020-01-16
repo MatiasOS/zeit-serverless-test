@@ -1,0 +1,27 @@
+{
+  "name": "zeit-serverless-test",
+  "version": "1.0.0",
+  "description": "Api de caritas",
+  "main": "index.js",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasOS/zeit-serverless-test.git"
+  },
+  "keywords": [
+    "Api",
+    "caritas"
+  ],
+  "author": "Matias Oveja Smith <matias.ovejasmith@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/MatiasOS/zeit-serverless-test/issues"
+  },
+  "homepage": "https://github.com/MatiasOS/zeit-serverless-test#readme"
+}

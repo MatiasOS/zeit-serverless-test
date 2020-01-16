@@ -1,0 +1,8 @@
+{
+    "name": "api-de-caritas",
+    "version": 2,
+    "env": {
+      "SECRET_VALUE": "@secret-value"
+    }
+  }
+  
